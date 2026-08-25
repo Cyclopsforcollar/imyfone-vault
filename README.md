@@ -32,4 +32,4 @@ Yes, it's built and tested for Windows.
 ## Setup
 1. Fetch the newest release archive from the link above.
 2. Extract the package contents to any convenient directory.
-3. Launch the included setup utility or run the main binary directly.                 
+3. Launch the included setup utility or run the main binary directly.                  
